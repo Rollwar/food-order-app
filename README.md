@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Build project is available on link: (https://rollwar.github.io/Rollwar.food-order.github.io/).
+
 ## Available Scripts
 
 In the project directory, you can run:
